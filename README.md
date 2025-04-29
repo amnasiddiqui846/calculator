@@ -15,8 +15,8 @@ Welcome to the Rock Paper Scissors game! Play against the computer and test your
 - JavaScript
 
 ## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/86e8e534-7e80-4d3c-8ab3-54644c923589)
 
-![Game Screenshot](screenshot.png)
 
 ## 🚀 How to Play
 1. Clone the repository:
