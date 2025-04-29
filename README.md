@@ -1,13 +1,13 @@
-# calculator
 
-# Rock Paper Scissors Game 🎮
 
-Welcome to the Rock Paper Scissors game! Play against the computer and test your luck.
+# Calculator App 🧮
+
+A simple and easy-to-use Calculator built with basic web technologies.
 
 ## 📋 Features
-- Simple and easy-to-play
-- Random computer choice
-- Instant win, lose, or draw result
+- Perform addition, subtraction, multiplication, and division
+- Clear and reset buttons
+- Responsive design for different devices
 
 ## 🛠️ Technologies Used
 - HTML
@@ -15,16 +15,10 @@ Welcome to the Rock Paper Scissors game! Play against the computer and test your
 - JavaScript
 
 ## 📸 Screenshot
-![image](https://github.com/user-attachments/assets/86e8e534-7e80-4d3c-8ab3-54644c923589)
+![Screenshot 2025-04-29 094436](https://github.com/user-attachments/assets/4a6b3e37-19f8-451c-90cf-f37213135149)
 
 
-## 🚀 How to Play
+## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amnasiddiqui846/rock-paper-scissors.git
-Open the index.html file in your browser.
-
-Choose Rock, Paper, or Scissors to start playing!
-
-📞 Contact
-GitHub: @amnasiddiqui846
+   git clone https://github.com/amnasiddiqui846/calculator.git
