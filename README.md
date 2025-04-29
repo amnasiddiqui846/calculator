@@ -1,16 +1,30 @@
 # calculator
 
-👋 Hi, I’m @amnasiddiqui846
+# Rock Paper Scissors Game 🎮
 
-👀 I’m interested in Web Development, UI/UX Design, and Game Development
+Welcome to the Rock Paper Scissors game! Play against the computer and test your luck.
 
-🌱 I’m currently learning JavaScript, React, and advanced UI/UX principles
+## 📋 Features
+- Simple and easy-to-play
+- Random computer choice
+- Instant win, lose, or draw result
 
-💞️ I’m looking to collaborate on frontend projects, web apps, and simple games like Rock Paper Scissors
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-📫 How to reach me: [your email or LinkedIn profile link]
+## 📸 Screenshot
 
-😄 Pronouns: She/Her
+![Game Screenshot](screenshot.png)
 
-⚡ Fun fact: I love turning creative ideas into interactive digital experiences!
+## 🚀 How to Play
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amnasiddiqui846/rock-paper-scissors.git
+Open the index.html file in your browser.
 
+Choose Rock, Paper, or Scissors to start playing!
+
+📞 Contact
+GitHub: @amnasiddiqui846
